@@ -1,3 +1,4 @@
 notes.txt
+add notes
 notes.txt
 
