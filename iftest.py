@@ -33,8 +33,8 @@ else:
 
 """
 
-height = 1.75
-weight = 80.5
+height = 1.6
+weight = 65
 bmi = int(weight / (height * height))
 print("bmi:",bmi)
 if bmi > 32:
