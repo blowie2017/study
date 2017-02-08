@@ -1,4 +1,9 @@
-um = 0
+#!/usr/bin/env python
+# --*-- coding:utf-8 --*--
+
+"""
+# for 计算从 0 到10 求和
+sum = 0
 for x in range(10):
         sum = sum + x
       #  print("x:",x)
